@@ -1,4 +1,6 @@
 regexp:(.*.||).ir,
+ext:iran.dat:other,
+geoip:ir,
 regexp:(.+(\.aiofilm.com)),
 regexp:(.+(\.aiocdn.top)),
 regexp:(.+(\.aiofilm.top)),
@@ -20,5 +22,4 @@ regexp:(.+(\.filimo.com)),
 regexp:(.+(\.paadars.com)),
 regexp:(.+(\.eitaa.com)),
 regexp:(.+(\.farsroid.com)),
-regexp:(.+(\.divarcdn.com)),
-geoip:ir
+regexp:(.+(\.divarcdn.com))
