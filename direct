@@ -1,3 +1,4 @@
 regexp:(.*.||).ir,
 ext:geosite.dat:other,
+ext:geosite.dat:ir,
 geoip:ir
