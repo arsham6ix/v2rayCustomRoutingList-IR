@@ -1,6 +1,6 @@
 regexp:.*\\.ir$,
-ext:iran.dat:ir,
-ext:iran.dat:other,
+ext:geosite.dat:ir,
+ext:geosite.dat:other,
 geosite:category-ir-gov,
 geosite:category-ir-news,
 geosite:category-ir-bank,
@@ -27,5 +27,5 @@ Tgju.org,
 Sarzamindownload.com,
 downloadha.com,
 P30download.com,
-Sanjesh.org
+Sanjesh.org,
 geoip:ir
